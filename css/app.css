@@ -1,0 +1,32 @@
+.tile{
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  border-radius: 4px;
+}
+
+.green {
+  background-color: green;
+}
+.red {
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
+.yellow {
+  background-color: yellow;
+}
+
+.lightyellow{
+  background-color: grey;
+}
+.lightgreen{
+  background-color: lime;
+}
+.lightred{
+  background-color: pink;
+}
+.lightblue{
+  background-color: lightblue;
+}
